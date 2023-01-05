@@ -29,7 +29,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+   padding: 50px 200px;
 }
 
 .nav-title {
@@ -109,7 +109,7 @@ main {
     justify-content: space-around;
 }
 
-.about .infi-title {
+.about .info-title {
     font-size: 20px;
     color: #757575;
 
